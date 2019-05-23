@@ -14,6 +14,10 @@ function initWindow () {
 	let window = new BrowserWindow({
 		width: 428,
 		height: 428,
+		// frame: false,
+		// minimizable: true,
+		// maximizable: false,
+		// titleBarStyle: 'hiddenInset',
 		webPreferences: {
 			nodeIntegration: true
 		}
