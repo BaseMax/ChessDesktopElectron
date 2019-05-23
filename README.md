@@ -6,3 +6,12 @@ Chess game with two player based on electron. (SOON)
 
 ![ScreenShot](screenshot2.png)
 
+---------
+
+## Similar Project
+
+https://github.com/BaseMax/ChessWeb
+
+# License
+
+ChessDesktop is licensed under the [GNU General Public License](LICENSE).
