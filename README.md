@@ -14,4 +14,4 @@ https://github.com/BaseMax/ChessWeb
 
 # License
 
-ChessDesktop is licensed under the [GNU General Public License](LICENSE).
+ChessDesktopElectron is licensed under the [GNU General Public License](LICENSE).
